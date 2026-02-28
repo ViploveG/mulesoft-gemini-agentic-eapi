@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "capabilities": ["NATIVE_CHECKOUT", "PRODUCT_SYNC"],
+  "endpoints": { 
+  	"checkout": "/api/checkout-sessions" 
+  }
+}
